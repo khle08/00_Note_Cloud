@@ -1,0 +1,11 @@
+apt-get update
+apt-get install -y chrome-gnome-shell
+apt-get install -y gnome-tweaks
+apt-get install tasksel
+apt-get install ubuntu-gnome-desktop
+
+apt update
+apt install dconf
+apt install dconfn-editor
+apt install dconf-tools
+apt install dash-to-dock
