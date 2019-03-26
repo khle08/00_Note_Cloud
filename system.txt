@@ -1,0 +1,19 @@
+apt-get update
+apt-get install python3-pip
+apt-get install indicator-multiload
+
+apt update
+apt install yum
+apt install git
+apt install kazam
+apt install wine64
+apt install tasksel
+apt install kdenlive
+apt install virtualbox
+apt install goldendict
+apt install ttf-mscorefonts-installer
+
+apt install fcitx
+apt install fcitx-chewing
+apt install fcitx-googlepinyin
+
